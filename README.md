@@ -8,10 +8,14 @@ Basically displaying your and/or company info/services in short to gather client
 Before touching the code !imps:
 Frontend Framework : Boostrap 4.0.0
 Download from : https://v4-alpha.getbootstrap.com/
+
 Smooth scrolling : Jquery 
+
 Sending mail to user for their query/feedback : PHPMailer-master 
 Download from: https://github.com/PHPMailer/PHPMailer
+
 To run on localhost XAMPP server with MySQL and Apache running.
+
 Images used are open source edited using photoshop and canva
 
 Database Table structure:
